@@ -15,6 +15,7 @@ ActiveRecord::Schema.define(version: 20160526194546) do
 
   create_table "items", force: :cascade do |t|
     t.text     "description"
+    t.string   "status"
     t.datetime "created_at",  null: false
     t.datetime "updated_at",  null: false
   end

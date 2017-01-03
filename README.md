@@ -1,5 +1,5 @@
 # Open Todo API
- API to manage your to authenticate and manage your information externally on a to-do list application.
+ API authenticate and manage your information externally on a to-do list application.
 
 ## Getting Started
 Start by cloning the repository:

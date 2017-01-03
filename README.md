@@ -21,7 +21,7 @@ Runs a simple server on port 3000. To view visit http://localhost:3000 on any br
 
 Authentication:
 ```
-$ curl -u username:<your username> password:<your password>
+$ curl -u <your username>:<your password> http://localhost:3000/api/users/
 ```
 ### Creating from the Command Line
 To create a user:
